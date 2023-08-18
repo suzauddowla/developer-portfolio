@@ -15,6 +15,16 @@
     border: 0;
     padding: 18px 35px;
 }
+.btn-outline{
+    height: 64px;
+    border-radius: 5px;
+    background: transparent;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 18px 35px;
+}
 /* header and navigation styles */
 .header {
     background-color: #FFF8F3;
